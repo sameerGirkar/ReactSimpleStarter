@@ -1,0 +1,35 @@
+.search-bar-container{
+    margin: 10px;
+    text-align: center;
+}
+
+.search-bar-container input{
+    width:75%;
+    margin: 10px auto;
+    border-radius: 5px;
+    box-shadow: none;
+    border: 1px solid lightskyblue;
+    padding:5px;
+}
+
+.video-list{
+    height: 200px;
+}
+
+.video-list-item{
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: none;
+    border: 1px solid lightskyblue;
+}
+.video-list-item:hover {
+    background-color: gray;
+}
+
+.details{
+    margin: 10px 0px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: none;
+    border: 1px solid lightskyblue;
+}
